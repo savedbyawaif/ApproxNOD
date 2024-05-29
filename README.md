@@ -13,6 +13,6 @@ My work deals specifically with designing a nearest one detector (NOD) that can 
 I simulated the error metrics for all three designs (MITCHELL, ILM with exact, ILM with approximate) in MATLAB and Erjing Luo (Master's student with Dr. Han) helped me synthesize my Verilog designs using Synopsys Design Compiler. In conclusion, the approximate designs had a worse power-delay product (21.7%) than the exact designs, but yielded a lower area (18.7%). Both ILMs were significantly more accurate (exact 27.9%, approx 19.2%) than the textbook MITCHEL model. Check out the full results in my research poster ```DRA_zhren_ApproxNOD.pdf```.
 
 ## Acknowledgements
-I would like to acknowledge Dr. Jie Han for supervising my project. I would also like to acknowledge Erjing Luo for helping me synthesize my Verilog designs. I would also like to thank RatkoFri and their repository [MulApprox](https://github.com/RatkoFri/MulApprox), which I used as a basis to code my designs for the MITCHEL and ILM models.
+I would like to acknowledge Dr. Jie Han for supervising my project. I would also like to acknowledge Erjing Luo for helping me synthesize my designs. I would also like to thank RatkoFri and their repository [MulApprox](https://github.com/RatkoFri/MulApprox), which I used as a basis to code my Verilog designs for the MITCHEL and ILM models.
 
 Note: An acknowledgement of RatkoFri's MulApprox repository was omitted from the original research poster. Added May 28, 2024
