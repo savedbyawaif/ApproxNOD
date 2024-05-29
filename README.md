@@ -1,6 +1,7 @@
-# Approximate NOD
+# Approximate Nearest One Detector
 This is a Dean's Research Award project that I worked on in the 2024 Winter semester under the supervision of Dr. Jie Han. I won the Student's Choice for Outstanding Research award at the Dean's Research Symposium on April 11, 2024.
 
+## Overview
 Approximate computing is an area of computer engineering that deals with the optimization of hardware while achieving accurate results. My research dealt with an area of approximate computing called logarithmic multiplication. This involves breaking down the multiplication operation into a series of instructions that a computer can understand. A product of two n-bit numbers can be computed using the additive and bit shifting properties of binary arithmetic.
 
 The textbook model of the logarithmic multiplier is the [Mitchell Multiplier](https://ieeexplore.ieee.org/document/5219391) (MITCHEL) model which utilizes the leading one bit and a [barrel shifter](https://en.wikipedia.org/wiki/Barrel_shifter) to compute an approximate product. The downsides of this is that approximate product is alway less than equal to the actual product and thus results in a one-sided error distribution.
