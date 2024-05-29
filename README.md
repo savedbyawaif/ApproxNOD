@@ -16,4 +16,4 @@ I simulated the error metrics for all three designs (MITCHELL, ILM with exact, I
 ## Acknowledgements
 I would like to acknowledge Dr. Jie Han for supervising my project. I would also like to acknowledge Erjing Luo for helping me synthesize my designs. I would also like to thank RatkoFri and their repository [MulApprox](https://github.com/RatkoFri/MulApprox), which I used as a basis to code my Verilog designs for the MITCHEL and ILM models.
 
-Note: An acknowledgement of RatkoFri's MulApprox repository was omitted from the original research poster. Added May 29, 2024.
+Note: An acknowledgement of RatkoFri's MulApprox repository was omitted from the original research poster. Added May 29, 2024 to ```DRA_zhren_ApproxNOD_updated.pdf```.
